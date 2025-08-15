@@ -1,0 +1,11 @@
+example:
+  name: Exempelkapellet
+  street: Exempelvägen 99
+  postcode: 999 99
+  town: Exempelköping
+
+partille:
+  name: Partille kyrka
+  street: Gamla Kronvägen 38
+  postcode: 433 33
+  town: Partille
